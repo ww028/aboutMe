@@ -2,6 +2,7 @@
   "name": "aboutMe",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://ww028.github.io/aboutMe",
   "scripts": {
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
